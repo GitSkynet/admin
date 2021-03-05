@@ -1,0 +1,42 @@
+{
+  "files": {
+    "static/js/0.da6cb18b.chunk.js": "/admin/static/js/0.da6cb18b.chunk.js",
+    "static/js/1.cebd1b6d.chunk.js": "/admin/static/js/1.cebd1b6d.chunk.js",
+    "main.css": "/admin/static/css/main.89c7ce01.chunk.css",
+    "main.js": "/admin/static/js/main.2a2f3b8b.chunk.js",
+    "runtime-main.js": "/admin/static/js/runtime-main.7c4d7cd8.js",
+    "static/js/4.83c77844.chunk.js": "/admin/static/js/4.83c77844.chunk.js",
+    "static/js/5.3dc705c6.chunk.js": "/admin/static/js/5.3dc705c6.chunk.js",
+    "static/js/6.cb190245.chunk.js": "/admin/static/js/6.cb190245.chunk.js",
+    "static/js/7.9768001b.chunk.js": "/admin/static/js/7.9768001b.chunk.js",
+    "static/js/8.3c5958d6.chunk.js": "/admin/static/js/8.3c5958d6.chunk.js",
+    "static/js/9.6794dec2.chunk.js": "/admin/static/js/9.6794dec2.chunk.js",
+    "static/js/10.245767fc.chunk.js": "/admin/static/js/10.245767fc.chunk.js",
+    "static/js/11.97a68d2a.chunk.js": "/admin/static/js/11.97a68d2a.chunk.js",
+    "static/js/12.935f3940.chunk.js": "/admin/static/js/12.935f3940.chunk.js",
+    "static/js/13.d489f74f.chunk.js": "/admin/static/js/13.d489f74f.chunk.js",
+    "static/js/14.a538fdf6.chunk.js": "/admin/static/js/14.a538fdf6.chunk.js",
+    "static/js/15.45a3b745.chunk.js": "/admin/static/js/15.45a3b745.chunk.js",
+    "static/js/16.b7c492b3.chunk.js": "/admin/static/js/16.b7c492b3.chunk.js",
+    "static/js/17.21cdefc1.chunk.js": "/admin/static/js/17.21cdefc1.chunk.js",
+    "index.html": "/admin/index.html",
+    "precache-manifest.7171130fb85472c5cb8c67f774ec46e8.js": "/admin/precache-manifest.7171130fb85472c5cb8c67f774ec46e8.js",
+    "service-worker.js": "/admin/service-worker.js",
+    "static/js/0.da6cb18b.chunk.js.LICENSE.txt": "/admin/static/js/0.da6cb18b.chunk.js.LICENSE.txt",
+    "static/js/4.83c77844.chunk.js.LICENSE.txt": "/admin/static/js/4.83c77844.chunk.js.LICENSE.txt",
+    "static/js/5.3dc705c6.chunk.js.LICENSE.txt": "/admin/static/js/5.3dc705c6.chunk.js.LICENSE.txt",
+    "static/media/base.scss": "/admin/static/media/bg5.d6730522.jpg",
+    "static/media/avatar3.jpg": "/admin/static/media/avatar3.d5f40349.jpg",
+    "static/media/hero-5.jpg": "/admin/static/media/hero-5.e9a0c915.jpg",
+    "static/media/react.svg": "/admin/static/media/react.11a8f47e.svg",
+    "static/media/stock-1.jpg": "/admin/static/media/stock-1.5843dac3.jpg",
+    "static/media/stock-2.jpg": "/admin/static/media/stock-2.4412962f.jpg",
+    "static/media/stock-3.jpg": "/admin/static/media/stock-3.257f5bc0.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7c4d7cd8.js",
+    "static/js/4.83c77844.chunk.js",
+    "static/css/main.89c7ce01.chunk.css",
+    "static/js/main.2a2f3b8b.chunk.js"
+  ]
+}
